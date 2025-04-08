@@ -1,6 +1,8 @@
 # Theory-of-Computation
 Introduction to the Theory of Computation Course.
+
 Course Overview
+
 This course introduces formal models of computation, computability, and complexity theory. Students will explore fundamental concepts such as automata, formal languages, Turing machines, and computational complexity classes.
 
 Prerequisites
